@@ -23,6 +23,8 @@ haoareyou1025@gmail.com
   2013/9 - 2017/6
   相關專業課程：微處理機、計算機組織、控制系統、訊號與系統
 
+  
+
 ## 作品
 
 * 碩士論文 - 基於條件式生成對抗網路之資料擴增於思覺失調症自動判別 [Github](https://github.com/masahiro1025/fMRI_cvsvm)
@@ -46,6 +48,8 @@ haoareyou1025@gmail.com
 * 其他技術 
 
   Crawler、GUI(Python Tkinter)、Flask、Django
+
+  
 
 ## 競賽經驗
 
