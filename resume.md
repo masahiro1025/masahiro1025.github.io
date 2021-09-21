@@ -6,6 +6,8 @@ haoareyou1025@gmail.com
 
 (+886) 901-495-149
 
+高雄市 苓雅區
+
 # 
 
 
@@ -23,9 +25,9 @@ haoareyou1025@gmail.com
 
 ## 作品
 
-* 碩士論文 - 基於條件式生成對抗網路之資料擴增於思覺失調症自動判別
+* 碩士論文 - 基於條件式生成對抗網路之資料擴增於思覺失調症自動判別 [Github](https://github.com/masahiro1025/fMRI_cvsvm)
 
-* 課程競賽排行榜與答案上傳系統網頁
+* [課程競賽排行榜與答案上傳系統 網頁](https://github.com/masahiro1025/PDL_LeaderBoard) 、 [課程資料集 Github](https://github.com/masahiro1025/Captcha)
 
 * 智慧型居家機器人收發信與文字拆解
 
@@ -51,9 +53,9 @@ haoareyou1025@gmail.com
   [Social Media Mining for Health Applications (#SMM4H) Workshop and Shared Task 2021](https://aclanthology.org/2021.smm4h-1.18/)
 
 * 國內競賽
-  2020 AI CUP [醫病資料去識別化 前標](https://aidea-web.tw/topic/d84fabf5-9adf-4e1d-808e-91fbd4e03e6d)
+  2020 AI CUP [醫病資料去識別化 前標](https://aidea-web.tw/topic/d84fabf5-9adf-4e1d-808e-91fbd4e03e6d) <img src="img/AICUP 01.jpg" width="20%" height="20%">
 
-  2020 AI CUP [愛文芒果五類不良品分類競賽 前標](https://aidea-web.tw/topic/fee8b6d6-dbd1-4794-a091-fa2ad829ea14)
+  2020 AI CUP [愛文芒果五類不良品分類競賽 前標](https://aidea-web.tw/topic/fee8b6d6-dbd1-4794-a091-fa2ad829ea14) <img src="img/AICUP 02.jpg" width="20%" height="20%">
 
   2021 AI CUP [醫病決策預判與問答 優等](https://aidea-web.tw/topic/3665319f-cd5d-4f92-8902-00ebbd8e871d)
 
@@ -124,7 +126,7 @@ haoareyou1025@gmail.com
 
 
 
-## 作品集
+
 
 
 
