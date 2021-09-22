@@ -2,7 +2,7 @@
 
 ### 陳昌浩 (CHANG-HAO, CHEN)<img src="img/changhao.jpg" style="height:15%; width:15% ;float:right">
 
-haoareyou1025@gmail.com
+chchen1025@gmail.com
 
 (+886) 901-495-149
 
