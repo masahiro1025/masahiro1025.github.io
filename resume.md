@@ -51,6 +51,8 @@ chchen1025@gmail.com
 
   Crawler、GUI(Python Tkinter)、Flask、Django
 
+* TOEIC 多益 760分
+
   
 
 ## 競賽經驗
@@ -103,11 +105,13 @@ chchen1025@gmail.com
 
   碩士論文主要研究功能性磁振造影 (fMRI) 在知覺失調症患者 (Schizophrenia) 與一般人之間做分類，藉由fMRI所獲得的資料進行不同特徵抽取以研究最佳的分類效果，並使用生成對抗網路生成假資料進行資料擴增提升模型分類效果。 此外，也對自然語言處理 (NLP) 有相當的研究，在命名實體識別 (NER)、文本生成 (GPT) 與文本分類等任務上均有實作經驗。在研究之餘會利用時間觀看各種線上課程及學習程式語言，如：Python、 JavaScript、 C、 Matlab。 
 
-*  發表： 
+* 發表： 
 
-  Lung-Hao Lee, Man-Chen Hung, Chien-Huan Lu, Chang-Hao Chen, Po-Lei Lee, and Kuo-Kai Shyu, ["Classification of Tweets Self-reporting Adverse Pregnancy Outcomes and Potential COVID-19 Cases Using RoBERTa Transformers,"](https://aclanthology.org/2021.smm4h-1.18/) Proceedings of the Sixth Social Media Mining for Health (# SMM4H) Workshop and Shared Task. 2021, pp.98-101 
+  Lung-Hao Lee, Man-Chen Hung, Chien-Huan Lu, **Chang-Hao Chen**, Po-Lei Lee, and Kuo-Kai Shyu, ["Classification of Tweets Self-reporting Adverse Pregnancy Outcomes and Potential COVID-19 Cases Using RoBERTa Transformers,"](https://aclanthology.org/2021.smm4h-1.18/) Proceedings of the Sixth Social Media Mining for Health (# SMM4H) Workshop and Shared Task. 2021, pp.98-101 
 
-  Lung-Hao Lee, Chang-Hao Chen, Wan-Chen Chang, Po-Lei Lee, Kuo-Kai Shyu, Mu-Hong Chen, Ju-Wei Hsu, Ya-Mei Bai, Tung-Ping Su, Pei-Chi Tu, "Evaluating the Performance of Machine Learning Models for Automatic Diagnosis of Patients with Schizophrenia Based on a Single Site Dataset of 440 Participants,"  
+  Lung-Hao Lee, **Chang-Hao Chen**, Wan-Chen Chang, Po-Lei Lee, Kuo-Kai Shyu, Mu-Hong Chen, Ju-Wei Hsu, Ya-Mei Bai, Tung-Ping Su, Pei-Chi Tu, "Evaluating the Performance of Machine Learning Models for Automatic Diagnosis of Patients with Schizophrenia Based on a Single Site Dataset of 440 Participants,"  
+
+  **陳昌浩**、陳柔安、李龍豪、張婉真、蘇宗平、杜培基 (2021年11月)。[大腦區域功能性連結分析之思覺失調症自動判別](https://taai2021.github.io/cyut/accepted.html)。*第26屆人工智慧與應用研討會* (***TAAI'21***)，臺中：朝陽科技大學。
 
 * 團隊競賽經驗 
 
